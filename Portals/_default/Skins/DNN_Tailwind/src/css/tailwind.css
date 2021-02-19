@@ -1,0 +1,10 @@
+@import "tailwindcss/base";
+@import "./custom-base-styles/base-styles.css";
+@import "./custom-layouts/layouts.css";
+
+@import "tailwindcss/components";
+@import "./custom-components/components.css";
+@import "./dnn-base-styles/dnn-base-styles.css";
+
+@import "tailwindcss/utilities";
+@import "./custom-utilities/utilities.css";
